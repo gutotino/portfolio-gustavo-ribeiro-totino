@@ -47,11 +47,12 @@ Atualmente cursando Tecnologia da Informação. Sou apaixonado por resolver prob
  
 ### 📂 Portfólio de Projetos
  
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema Veterinário** | Modelagem de sistema e banco de dados para clínica veterinária. |[Ver Projeto](./sistema-veterinario-01/) |
-| **Kroma - Engenharia Reversa** | Projeto de engenharia reversa baseado no site neumorphism.io. | [Ver Projeto](./projeto-engenharia-reversa-kroma/) | | **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Atividade](./projeto-vies-ia/) |
-| **Análise Financeira com Python** | Projeto de análise financeira e simulação de carteira. | [Ver Projeto](./analise-financeira-python-01/) |
+| Projeto | Tecnologia Principal | Visualizar |
+| :--- | :---: | :--- |
+| **Sistema Veterinário** | `Modelagem de Dados` `SQL` | [Ver Projeto](./sistema-veterinario-01/) |
+| **Kroma - Engenharia Reversa** | `UI/UX` `Análise de Interface` | [Ver Projeto](./projeto-engenharia-reversa-kroma/) |
+| **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Atividade](./projeto-vies-ia/) |
+| **Análise Financeira com Python** | `Python` `Pandas` `Matplotlib` | [Ver Projeto](./analise-financeira-python-01/) |
  
 ---
  
