@@ -50,8 +50,8 @@ Atualmente cursando Tecnologia da Informação. Sou apaixonado por resolver prob
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema Veterinário** | Modelagem de sistema e banco de dados para clínica veterinária. |[Ver Projeto](./sistema-veterinario-01/) |
-| **Kroma - Engenharia Reversa** | Projeto de engenharia reversa baseado no site neumorphism.io. | [Ver Projeto](./analise-financeira-python-01/) |
-| **Análise Financeira com Python** | Projeto de análise financeira e simulação de carteira. | [Ver Projeto](./projeto-analise-financeira-python/) |
+| **Kroma - Engenharia Reversa** | Projeto de engenharia reversa baseado no site neumorphism.io. | [Ver Projeto](./projeto-engenharia-reversa-kroma/) |
+| **Análise Financeira com Python** | Projeto de análise financeira e simulação de carteira. | [Ver Projeto](./analise-financeira-python-01/) |
  
 ---
  
