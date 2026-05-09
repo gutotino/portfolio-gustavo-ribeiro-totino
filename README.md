@@ -53,6 +53,7 @@ Atualmente cursando Tecnologia da Informação. Sou apaixonado por resolver prob
 | **Kroma - Engenharia Reversa** | `UI/UX` `Análise de Interface` | [Ver Projeto](./projeto-engenharia-reversa-kroma/) |
 | **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Atividade](./projeto-vies-ia/) |
 | **Análise Financeira com Python** | `Python` `Pandas` `Matplotlib` | [Ver Projeto](./analise-financeira-python-01/) |
+| **⚔️ Batalha de Modelos de IA** | `Prompt Engineering` `HTML/CSS` `IA Generativa` | [Ver Projeto](./batalha-modelos-ia/) |
  
 ---
  
