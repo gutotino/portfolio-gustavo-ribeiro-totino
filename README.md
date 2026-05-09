@@ -50,10 +50,12 @@ Atualmente cursando Tecnologia da Informação. Sou apaixonado por resolver prob
 | Projeto | Tecnologia Principal | Visualizar |
 | :--- | :---: | :--- |
 | **Sistema Veterinário** | `Modelagem de Dados` `SQL` | [Ver Projeto](./sistema-veterinario-01/) |
+| **🧩 Engenharia Reversa com IA** | `IA Generativa` `Engenharia Reversa` | [Ver Projeto](./engenharia-reversa-ia/) |
 | **Kroma - Engenharia Reversa** | `UI/UX` `Análise de Interface` | [Ver Projeto](./projeto-engenharia-reversa-kroma/) |
-| **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Atividade](./projeto-vies-ia/) |
-| **Análise Financeira com Python** | `Python` `Pandas` `Matplotlib` | [Ver Projeto](./analise-financeira-python-01/) |
+| **🤖 Teachable Machine** | `IA / ML` `TensorFlow` | [Ver Projeto](./projeto-vies-ia/) |
 | **⚔️ Batalha de Modelos de IA** | `Prompt Engineering` `HTML/CSS` `IA Generativa` | [Ver Projeto](./batalha-modelos-ia/) |
+| **Análise Financeira com Python** | `Python` `Pandas` `Matplotlib` | [Ver Projeto](./analise-financeira-python-01/) |
+
  
 ---
  
