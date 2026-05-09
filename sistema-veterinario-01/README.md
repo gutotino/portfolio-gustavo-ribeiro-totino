@@ -22,7 +22,7 @@ O sistema foi planejado para organizar informações de tutores, pets, consultas
 
 O projeto inclui:
 - Diagrama Entidade-Relacionamento (ER)
-- Estrutura lógica do banco
+- Estrutura lógica do banco de dados
 - Relacionamentos entre tabelas
 - Organização de atributos e cardinalidades
 
